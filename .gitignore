@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+.env*
+*.log
+*.x_t
+*.x_b
+*.step
+*.stp
+*.sldasm
+*.sldprt
+*.wbpz
+*.wbpj
+**/outputs/
+**/trace_private.json
+**/reference_private.json

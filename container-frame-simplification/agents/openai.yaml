@@ -1,0 +1,4 @@
+interface:
+  display_name: "集装箱框架简化"
+  short_description: "匿名识别箱体结构和附件，按试验工况清理并独立回读验收 X_T"
+  default_prompt: "使用 $container-frame-simplification 识别箱体框架，按工况核对清理候选并回读新版 X_T。"
